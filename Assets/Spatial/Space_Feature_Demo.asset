@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_Feature_Demo
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Feature Demo
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  sku: xqsyyv8m49zsqnlzdgehif0t
+  packageName: Chiesa
+  thumbnail: {fileID: 2800000, guid: 85d1425b7ef43f341a22cbfcf65c0c89, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: fil6rhf5d70c2c4mhq5ky
   scene: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
